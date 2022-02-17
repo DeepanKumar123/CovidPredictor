@@ -1,0 +1,6 @@
+# this is RMSLE for model 1 and model 2 run on 3 weeks of training data and tested on last week of training data,
+# followed by the final model (model 2) trained on all the training data and evaluated on the competition validation set
+
+0.34874743496701216 0.43483946161819803 0.3917934482926051
+0.20802362964627175 0.2386652466919066 0.22334443816908917
+0.537607206717114 0.5050903743982299 0.5213487905576719
